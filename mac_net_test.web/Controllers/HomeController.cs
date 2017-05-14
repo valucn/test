@@ -17,7 +17,7 @@ namespace mac_net_test.web.Controllers
             ViewData["Version"] = mvcName.Version.Major + "." + mvcName.Version.Minor;
             ViewData["Runtime"] = isMono ? "Mono" : ".NET";
 
-            var model = new List<test_model>();
+            //var model = new List<test_model>();
             return View();
         }
     }
