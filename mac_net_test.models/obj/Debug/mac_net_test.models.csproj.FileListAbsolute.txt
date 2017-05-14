@@ -1,0 +1,4 @@
+D:\vs_Projects\test\mac_net_test\mac_net_test.models\bin\Debug\mac_net_test.models.dll
+D:\vs_Projects\test\mac_net_test\mac_net_test.models\bin\Debug\mac_net_test.models.pdb
+D:\vs_Projects\test\mac_net_test\mac_net_test.models\obj\Debug\mac_net_test.models.dll
+D:\vs_Projects\test\mac_net_test\mac_net_test.models\obj\Debug\mac_net_test.models.pdb

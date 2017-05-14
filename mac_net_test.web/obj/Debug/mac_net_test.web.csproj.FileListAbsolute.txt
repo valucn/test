@@ -17,3 +17,5 @@ D:\vs_Projects\test\mac_net_test\mac_net_test.web\bin\System.Web.Mvc.xml
 D:\vs_Projects\test\mac_net_test\mac_net_test.web\obj\Debug\mac_net_test.web.csprojResolveAssemblyReference.cache
 D:\vs_Projects\test\mac_net_test\mac_net_test.web\obj\Debug\mac_net_test.web.dll
 D:\vs_Projects\test\mac_net_test\mac_net_test.web\obj\Debug\mac_net_test.web.pdb
+D:\vs_Projects\test\mac_net_test\mac_net_test.web\bin\mac_net_test.models.dll
+D:\vs_Projects\test\mac_net_test\mac_net_test.web\bin\mac_net_test.models.pdb
