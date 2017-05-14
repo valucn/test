@@ -96,6 +96,12 @@
     <Content Include="Global.asax" />
     <Content Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\mac_net_test.models\mac_net_test.models.csproj">
+      <Project>{4615bdb0-c2fe-40de-ac46-6c88fce59aaa}</Project>
+      <Name>mac_net_test.models</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>
     <MonoDevelop>
