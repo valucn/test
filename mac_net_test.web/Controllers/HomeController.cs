@@ -1,5 +1,4 @@
-﻿using mac_net_test.models;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -18,19 +17,7 @@ namespace mac_net_test.web.Controllers
             ViewData["Version"] = mvcName.Version.Major + "." + mvcName.Version.Minor;
             ViewData["Runtime"] = isMono ? "Mono" : ".NET";
 
-            var model = new List<test_model>();
-            for (int i = 1; i <= 100; i++)
-            {
-                string uid = "uid" + i.ToString().PadLeft(3, '0');
-                string pwd = "pwd" + i.ToString().PadLeft(3, '0');
-                model.Add(new test_model
-                {
-                    id = i,
-                    uid = uid,
-                    pwd = pwd
-                });
-            }
-            return View(model);
+            return View();
         }
     }
 }
