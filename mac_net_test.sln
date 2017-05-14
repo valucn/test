@@ -4,6 +4,8 @@ VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mac_net_test.web", "mac_net_test.web\mac_net_test.web.csproj", "{40A852F5-9C84-4F20-AEDE-CF347F2E4F81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mac_net_test.models", "mac_net_test.models\mac_net_test.models.csproj", "{4615BDB0-C2FE-40DE-AC46-6C88FCE59AAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,6 +16,10 @@ Global
 		{40A852F5-9C84-4F20-AEDE-CF347F2E4F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40A852F5-9C84-4F20-AEDE-CF347F2E4F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40A852F5-9C84-4F20-AEDE-CF347F2E4F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4615BDB0-C2FE-40DE-AC46-6C88FCE59AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4615BDB0-C2FE-40DE-AC46-6C88FCE59AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4615BDB0-C2FE-40DE-AC46-6C88FCE59AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4615BDB0-C2FE-40DE-AC46-6C88FCE59AAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
